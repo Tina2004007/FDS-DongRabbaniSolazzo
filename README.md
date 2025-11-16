@@ -8,7 +8,7 @@ This repository functions as our "Toolbox," as required by the course guidelines
 
 * `/model_v1_code.py`: Contains the class and helper functions for **Submission 1 (A/B Test: LogReg vs. Voting)**.
 * `/model_v2_code.py`: Contains the class and helper functions for **Submissions 2 & 3 (Advanced Stacking Ensemble)**.
-* `/submission-1.ipynb` & `/submission-2-2.ipynb`: The original notebooks from which the `.py` modules were extracted.
+* `/submission-1.ipynb` & `/submission-2.ipynb`: The original notebooks from which the `.py` modules were extracted.
 
 ## Final Kaggle Notebook
 
